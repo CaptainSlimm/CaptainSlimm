@@ -1,10 +1,14 @@
-## Hi there 👋
+# Hello👋, I'm Justin William: Weclome to my Page
+<a href="https://www.linkedin.com/in/justin-william-540456377/"> 
 
-<!--
-**CaptainSlimm/CaptainSlimm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am ethical hacker and penetration tester that is interested computer programming, physics and engineering with a dedication to solving problems for the benefit of mankind!
 
-Here are some ideas to get you started:
+## Objective
+My keen interest in computers and algorithims to solve problems in order to make the world safer place has led me to develop a passion for cybersecurity and ethical hacking. I am eager to transition to the cybersecurity field with the aim joining an organization as a ethical hacker or penetration tester. 
 
+## Skills
+| Skill                                                | Associated Project                    |
+|------------------------------------------------------|---------------------------------------|
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...

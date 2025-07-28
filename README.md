@@ -1,5 +1,5 @@
 # Hello👋, I'm Justin William: Weclome to my Page
-<a href="https://www.linkedin.com/in/justin-william-540456377/"> 
+<a href="https://www.linkedin.com/in/justin-william-540456377/"><img src="https://img.shields.io/badge/LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am ethical hacker and penetration tester that is interested computer programming, physics and engineering with a dedication to solving problems for the benefit of mankind!
 

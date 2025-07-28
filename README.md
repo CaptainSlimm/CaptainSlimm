@@ -4,7 +4,7 @@
 I am ethical hacker and penetration tester that is interested computer programming, physics and engineering with a dedication to solving problems for the benefit of mankind!
 
 ## Objective
-My keen interest in computers and algorithims to solve problems in order to make the world safer place has led me to develop a passion for cybersecurity and ethical hacking. I am eager to transition to the cybersecurity field with the aim joining an organization as a ethical hacker or penetration tester. 
+My keen interest in computers and algorithims to solve problems in order to make the world a safer place with convenience has led me to develop a passion for cybersecurity and ethical hacking. I am eager to transition into the cybersecurity field with the aim of joining an organization as a ethical hacker or penetration tester. 
 
 ## Skills
 | Skill                                                | Associated Project                    |

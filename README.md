@@ -9,8 +9,8 @@ My keen interest in computers and algorithims to solve problems in order to make
 ## Skills
 | Skill                                                | Associated Project                    |
 |------------------------------------------------------|---------------------------------------|
-| Capture The Flag competitions and Vulnerability Scans| Try HackMe and Nikito projects
-| Red Team hacking exploitations and ethical hacking toosl
+| Capture The Flag competitions and Vulnerability Scans| XAMPP and Nikto 
+| Red Team hacking exploitations and ethical hacking tools | TryHackme
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...

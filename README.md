@@ -12,8 +12,8 @@ My keen interest in computers and algorithims to solve problems in order to make
 | Capture The Flag competitions and Vulnerability Scans| XAMPP and Nikto 
 | Red Team hacking exploitations and ethical hacking tools | TryHackme
 | Accessing hosts through open ports via hacking tools i.e. Metasploit| https://youtu.be/SuogjPTtjis|
-- 👯 I’m looking to collaborate on learning more ethincal hacking techniques that utilize both hardware such as SDRs and software
-- 🤔 I’m looking for help with ethical hacking and penetration techniques and challenges 
+- 👯 I’m looking to collaborate on learning more ethical hacking techniques and physics that utilize both hardware such as SDRs and software
+- 🤔 I’m looking for help with ethical hacking and penetration techniques and challenges to protect others from exploitation
 - 💬 Ask me about my interests
 - 📫 How to reach me: jlwilliam@mail.com
 - ⚡ Fun fact: I want to go to outer space and conduct experiements that will benefit mankind

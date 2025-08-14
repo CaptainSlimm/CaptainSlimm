@@ -9,9 +9,11 @@ My keen interest in computers and algorithims to solve problems in order to make
 ## Skills
 | Skill                                                | Associated Project                    |
 |------------------------------------------------------|---------------------------------------|
-| Capture The Flag competitions and Vulnerability Scans| XAMPP and Nikto 
-| Red Team hacking exploitations and ethical hacking tools | TryHackme
 | Accessing hosts through open ports via hacking tools i.e. Metasploit| https://youtu.be/SuogjPTtjis|
+| Exposing vulnerabilities and ethcial hacking using SQL injection | SQL injection and logic |
+| Capture The Flag competitions and Vulnerability Scans| XAMPP and Nikto                   
+| Red Team hacking exploitations and ethical hacking tools | TryHackme
+
 - 👯 I’m looking to collaborate on learning more ethical hacking techniques and physics that utilize both hardware such as SDRs and software
 - 🤔 I’m looking for help with ethical hacking and penetration techniques and challenges to protect others from exploitation
 - 💬 Ask me about my interests
